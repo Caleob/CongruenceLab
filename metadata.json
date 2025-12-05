@@ -1,0 +1,5 @@
+{
+  "name": "Congruence Lab",
+  "description": "An interactive geometry lab for students to identify congruent triangles, manipulate their orientation, and formulate congruence proofs using SSS, SAS, ASA, or HL.",
+  "requestFramePermissions": []
+}
